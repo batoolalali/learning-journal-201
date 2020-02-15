@@ -50,8 +50,7 @@ to tell a browser which version of HTML the page is using
 - <spam> allows you to group a set of elements together, but it is an inline element.
 - <ifram> to cut another page into your page in a little window.
 - <meta>  element It is not visible to users lives inside the <head> element and contains information about that web page.
-- Escape characters are used to include special
-characters in your pages such as <, >, and ©.
+- Escape characters are used to include special.
 
 
 
