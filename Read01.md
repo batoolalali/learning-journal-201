@@ -28,8 +28,7 @@ domain name or web address into the browser to visit a site.
 
 ### HTML pages is a text documents.
 - Headings:  The use of headings and subheadings in any document often reflects a hierarchy of information.
-- Tags act like containers. They tell you something about the information that lies between their opening and closing tags.\
-
+- Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 
 ### Elements
 - <DOCTYPE>
@@ -39,17 +38,16 @@ to tell a browser which version of HTML the page is using
 
 - Class and id attrribute:
 
-  - ID: Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. It is called by ( # ) .
-  - Class: Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. It is called by ( . ) .
+  - ID: Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page.
+  - Class: Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
 
+- Block elements: will always appear to start on a new line in the browser window. Such as <h1>  <p>  <ul>  and <li> 
+- Inline elements: will always appear to continue on the same line as their neighbouring elements. Such as <a>  <b>  <em>  and <img> 
 
-- Block elements: will always appear to start on a new line in the browser window. Such as <h1>, <p>, <ul>, and <li>.
-- Inline elements: will always appear to continue on the same line as their neighbouring elements. Such as <a>, <b>, <em>, and <img>.
-
-- <div> element allows you to group a set of elements together in one block-level box.
-- <spam> allows you to group a set of elements together, but it is an inline element.
-- <ifram> to cut another page into your page in a little window.
-- <meta>  element It is not visible to users lives inside the <head> element and contains information about that web page.
+- the <div> element allows you to group a set of elements together in one block-level box.
+- the <spam> allows you to group a set of elements together, but it is an inline element.
+- the <ifram> to cut another page into your page in a little window.
+- the <meta>  element It is not visible to users lives inside the <head> element and contains information about that web page.
 - Escape characters are used to include special.
 
 
@@ -58,21 +56,21 @@ to tell a browser which version of HTML the page is using
 
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page.
 
-- <header> <footer>
+- the <header> <footer>
 The main header or footer that appears at the top or bottom of every page on the site.
 
-- <nav>
+- the <nav>
 Used to contain the major navigational blocks on the site such as the primary site navigation.
 
 - The <article> element acts as a container for any section of a page.
 
-- <aside>
+- the <aside>
   - When the <aside> element is used inside an <article> element, it should contain information that is related to the
     article but not essential to its overall meaning. 
 
   - When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page.
 
-- <section> element groups related content together, and typically each section would have its own heading.
+- the <section> element groups related content together, and typically each section would have its own heading.
 
 When you design wyour website you have to know your target audience and why they would come to your site, what 
 they want to find in your website and when they are likely to return.
